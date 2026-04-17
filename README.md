@@ -73,6 +73,8 @@ ai-voice-avatar/
 ```
 
 ---
+<img width="1881" height="907" alt="image" src="https://github.com/user-attachments/assets/7bbfcebd-af9d-4938-96fb-ce50e7b780d3" />
+
 
 ## Setup
 
